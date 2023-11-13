@@ -1,0 +1,32 @@
+.grid {
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    flex-grow: 1;
+    grid-template-columns: repeat(var(--width), calc(73vmin / var(--width)));
+    grid-template-rows: repeat(var(--height), calc(73vmin / var(--height)));
+    gap: .5vmin;
+    margin: 1vmin;
+}
+
+#clue {
+    font-weight: 500;
+}
+
+#searching-players-message {
+    margin-top: 45%;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.fade-in-text {
+    animation: fadeIn 5s;
+}

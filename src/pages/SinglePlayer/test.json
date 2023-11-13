@@ -1,0 +1,149 @@
+{
+  "wordsAndCells": [
+      {
+          "word": "ie",
+          "wordLength": 2,
+          "clue": "that is to say",
+          "cell": {
+              "dir": "RIGHT",
+              "row": 0,
+              "col": 0
+          },
+          "wordSecret": "ie"
+      },
+      {
+          "word": "friend",
+          "wordLength": 6,
+          "clue": "acquaintance",
+          "cell": {
+              "dir": "RIGHT",
+              "row": 1,
+              "col": 0
+          },
+          "wordSecret": "friend"
+      },
+      {
+          "word": "nerve",
+          "wordLength": 5,
+          "clue": "cheek",
+          "cell": {
+              "dir": "RIGHT",
+              "row": 3,
+              "col": 2
+          },
+          "wordSecret": "nerve"
+      },
+      {
+          "word": "pool",
+          "wordLength": 4,
+          "clue": "pocket billiards",
+          "cell": {
+              "dir": "RIGHT",
+              "row": 4,
+              "col": 0
+          },
+          "wordSecret": "pool"
+      },
+      {
+          "word": "wood",
+          "wordLength": 4,
+          "clue": "forest",
+          "cell": {
+              "dir": "RIGHT",
+              "row": 5,
+              "col": 2
+          },
+          "wordSecret": "wood"
+      },
+      {
+          "word": "on",
+          "wordLength": 2,
+          "clue": "along",
+          "cell": {
+              "dir": "RIGHT",
+              "row": 6,
+              "col": 5
+          },
+          "wordSecret": "on"
+      },
+      {
+          "word": "if",
+          "wordLength": 2,
+          "clue": "used to introduce an exclamatory clause, indicating a wish",
+          "cell": {
+              "dir": "DOWN",
+              "row": 0,
+              "col": 0
+          },
+          "wordSecret": "if"
+      },
+      {
+          "word": "up",
+          "wordLength": 2,
+          "clue": "upwards",
+          "cell": {
+              "dir": "DOWN",
+              "row": 3,
+              "col": 0
+          },
+          "wordSecret": "up"
+      },
+      {
+          "word": "era",
+          "wordLength": 3,
+          "clue": "epoch",
+          "cell": {
+              "dir": "DOWN",
+              "row": 0,
+              "col": 1
+          },
+          "wordSecret": "era"
+      },
+      {
+          "word": "now",
+          "wordLength": 3,
+          "clue": "straightaway",
+          "cell": {
+              "dir": "DOWN",
+              "row": 3,
+              "col": 2
+          },
+          "wordSecret": "now"
+      },
+      {
+          "word": "develop",
+          "wordLength": 7,
+          "clue": "make grow",
+          "cell": {
+              "dir": "DOWN",
+              "row": 0,
+              "col": 3
+          },
+          "wordSecret": "develop"
+      },
+      {
+          "word": "do",
+          "wordLength": 2,
+          "clue": "perform",
+          "cell": {
+              "dir": "DOWN",
+              "row": 5,
+              "col": 5
+          },
+          "wordSecret": "do"
+      },
+      {
+          "word": "jew",
+          "wordLength": 3,
+          "clue": "israelite",
+          "cell": {
+              "dir": "DOWN",
+              "row": 2,
+              "col": 6
+          },
+          "wordSecret": "jew"
+      }
+  ],
+  "height": 7,
+  "width": 7
+}

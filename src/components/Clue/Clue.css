@@ -1,0 +1,34 @@
+#solved-icon {
+    margin-left: 0.3vmin;
+    margin-top: 1vmin;
+}
+
+#hint-icon {
+    margin-top: 1vmin;
+    float: right;
+    margin-top: 15px;
+    padding-right: 15px;
+    width: 50px;
+}
+
+#clue {
+    margin-left: 0.6vmin;
+}
+
+.clickable {
+    cursor: pointer;
+}
+.clue-wrapper{
+    width: 100%;
+    background-color: #fff;
+    padding: 10px 15px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.topic-title {
+    color: #E25B30;
+    font-size: 14px;
+    /* border-bottom: solid 1px #e9e9e9; */
+    width: -webkit-fill-available;
+    padding-bottom: 10px;
+}
